@@ -1,0 +1,31 @@
+.match-card {
+  background-color: #1e293b;
+  margin: 0 20px 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  padding: 10px 0 10px 0;
+  border-radius: 8px;
+}
+.box {
+  text-align: center;
+}
+
+.recent-logo {
+  width: 25%;
+}
+.recent-team-name {
+  font-size: 18px;
+  color: #fff;
+}
+.recent-result {
+  font-size: 14px;
+  color: #fff;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}

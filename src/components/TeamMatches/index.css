@@ -1,0 +1,60 @@
+.DC {
+  background-image: linear-gradient(to bottom, #4f5db0, #1e293b);
+}
+.SRH {
+  background-image: linear-gradient(to bottom, #f26d22, #1e293b);
+}
+.MI {
+  background-image: linear-gradient(to bottom, #13418b, #1e293b);
+}
+.RR {
+  background-image: linear-gradient(to bottom, #5755a7, #da237b);
+}
+.CSK {
+  background-image: linear-gradient(to bottom, #f7db00, #1e293b);
+}
+.KXIP {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+}
+.KKR {
+  background-image: linear-gradient(to bottom, #5755a7, #1e293b);
+}
+.RCB {
+  background-image: linear-gradient(to bottom, #d91c1f, #1e293b);
+}
+
+.team-matches-page {
+  width: 100%;
+  padding: 30px 0 30px 0;
+}
+
+.team-matches-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner {
+  width: 80%;
+}
+
+.latest-matches-container {
+  background-color: #1e293b;
+  border-radius: 8px;
+  padding: 20px;
+  width: 80%;
+}
+
+.heading {
+  font-size: 20px;
+  color: #fff;
+}
+
+.recent-matches-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 80%;
+}
